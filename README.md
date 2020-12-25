@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/ioeshu/ioeshu.svg)](http://hits.dwyl.com/ioeshu/ioeshu)
 
 Here are some ideas to get you started:
 
