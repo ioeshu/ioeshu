@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... [Mail ME](mailto:a.eswar954@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I created my github account a year back 
+- ⚡ Fun fact: ... I can hack wifi 
 -->
